@@ -13,8 +13,13 @@ associated code.
 | [VINS-Fusion](https://ieeexplore.ieee.org/abstract/document/8593603) | 2019 | [![GitHub stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Fusion.svg?style=social&label=)](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) |
 | [ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM](https://arxiv.org/pdf/2007.11898) | 2019 | [![GitHub stars](https://img.shields.io/github/stars/UZ-SLAMLab/ORB_SLAM3.svg?style=social&label=)](https://github.com/UZ-SLAMLab/ORB_SLAM3) |
 | [OpenVINS: A Research Platform for Visual-Inertial Estimation](https://pgeneva.com/downloads/papers/Geneva2020ICRA.pdf) | 2020 | [![GitHub stars](https://img.shields.io/github/stars/rpng/open_vins.svg?style=social&label=)](https://github.com/rpng/open_vins) |
+| [PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Points and Lines](https://github.com/cnqiangfu/PL-VINS) | 2020 |[![GitHubstars](https://img.shields.io/github/stars/cnqiangfu/PL-VINS.svg?style=social&label=)](https://github.com/cnqiangfu/PL-VINS) |
 | [Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping](https://arxiv.org/abs/1910.02490) | 2020 | [![GitHub stars](https://img.shields.io/github/stars/MIT-SPARK/Kimera-VIO.svg?style=social&label=)](https://github.com/MIT-SPARK/Kimera-VIO?tab=readme-ov-file) 
 | [DM-VIO: Delayed Marginalization Visual-Inertial Odometry](https://arxiv.org/abs/2201.04114) | 2022 | [![GitHub stars](https://img.shields.io/github/stars/lukasvst/dm-vio.svg?style=social&label=)](https://github.com/lukasvst/dm-vio)
+| [EqVIO (Equivariant Visual Inertial Odometry)](https://arxiv.org/pdf/2205.01980) | 2022 |[![GitHubstars](https://img.shields.io/github/stars/pvangoor/eqvio.svg?style=social&label=)](https://github.com/pvangoor/eqvio?tab=readme-ov-file)
+| [MSCEqF: A Multi State Constraint Equivariant Filter for Vision-aided Inertial Navigation](https://arxiv.org/abs/2311.11649) | 2023 | [![GitHubstars](https://img.shields.io/github/stars/aau-cns/MSCEqF.svg?style=social&label=)](https://github.com/aau-cns/MSCEqF?tab=readme-ov-file#1)|
+
+
 ## Consistency in Visual-Inerial State Estimation
 These papers deal with the concept of consistency in visual-inertial state
 estimation, which is closely linked with the observability properties of the
@@ -36,7 +41,8 @@ These are a few useful repos/papers discussing visual-inertial calibration.
 
 | Paper | Year | Code |
 |-------|------|------|
-| [Unified Temporal and Spatial Calibration for Multi-Sensor Systems](https://ieeexplore.ieee.org/document/6696514/) | 2013 | [![GitHub stars](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=social&label=)](https://github.com/ethz-asl/kalibr) |
+| [Unified Temporal and Spatial Calibration for Multi-Sensor Systems (Kalibr)](https://ieeexplore.ieee.org/document/6696514/) | 2013 | [![GitHub stars](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=social&label=)](https://github.com/ethz-asl/kalibr) |
+| [IMU Noise Characterization - Allan Variance](https://github.com/ori-drs/allan_variance_ros) | 2021 | [![GitHub stars](https://img.shields.io/github/stars/ori-drs/allan_variance_ros.svg?style=social&label=)](https://github.com/ori-drs/allan_variance_ros)
 
 ### Contributing
 This is a work in progress and is incomplete - if you'd like to add any papers related to these topics, feel free to submit a pull request!
